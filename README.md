@@ -135,7 +135,7 @@
 </tr>
 <tr>
 <td>1533, 25 January</td>
-<td>Henry VIII marries Anne Boleyn at Whitehall&nbsp;<a class="external autonumber" href="https://web.archive.org/web/20090303120722/http://www.bbc.co.uk/history/british/tudors/anne_boleyn_02.shtml" rel="nofollow">[1]</a></td>
+<td>Henry VIII marries Anne Boleyn at Whitehall&nbsp;</td>
 </tr>
 <tr>
 <td>1533, March</td>
